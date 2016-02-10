@@ -4,26 +4,26 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Jack Chandler"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Master in Computing Graduate, Attempting to Master Computers.
 
-email: a-mail@mail.mail
+email: edwardjackchandler@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
+name: 'Jack Chandler'
 author: 'Dirk Fabisch'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://edwardjackchandler.github.io/" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@JackChan'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
